@@ -1,1 +1,1 @@
-# R/Python-for-data-analysis
+# R-for-data-analysis
